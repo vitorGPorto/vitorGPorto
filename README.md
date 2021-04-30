@@ -14,12 +14,11 @@
   <img align="center" alt="Vitor-webpack" height="30" width="40" src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor">
 <img align="center" alt="vitor-Nodejs" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
    <img align="center" alt="Vitor-JAVA" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
-
 <hr>
 <div>
-  <a href="https://github.com/vitorGPorto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorGPorto&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorGPorto&layout=compact&langs_count=16&theme=vue-dark"/>
+ <a href="https://github.com/vitorGPorto">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorGPorto&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorGPorto&layout=compact&langs_count=16&theme=vue-dark"/>
 <div>
 <hr>
 <h3> 🤝🏿 Contato:</h3>
