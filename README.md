@@ -5,7 +5,7 @@
 
 - 👨🏿‍🎓 &nbsp; Estou cursando  Ciência da Computação.
 
-- 🌱 &nbsp; Aprendendo sobre Atomic Design, Vue, Nuxt e Typescript. 
+- 🌱 &nbsp; Aprendendo sobre React Native, Atomic Design, Vue, Nuxt e Typescript. 
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
