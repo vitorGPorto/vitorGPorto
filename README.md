@@ -1,4 +1,5 @@
-### Olá 👋<h2> Sou  o Vitor Porto</h2>
+### Olá 👋![image](https://user-images.githubusercontent.com/79535209/140429169-78378cb9-d548-4767-8498-95e5e4492b7a.png)
+<h2> Sou  o Vitor Porto</h2>
 <img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="250">
 
 <h3> 🧔🏿•💻 Sobre mim: </h3>
