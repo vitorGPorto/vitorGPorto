@@ -1,33 +1,47 @@
-<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! </h2>
-<h2> Sou  o Vitor Porto</h2>
-<img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="250">
+# Vitor Porto
 
-<h3> 🧔🏿•💻 Sobre mim: </h3>
+## Mobile Developer 📱
+<br/>
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/vitor-porto-8340bb173/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp;&nbsp; 
+  <a href="https://discord.com/channels/@me" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> &nbsp;&nbsp; 
+  <a href="https://twitter.com/M0rcegao" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp;&nbsp; 
+ 
 
-- 👨🏿‍🎓 &nbsp; Estou cursando  Ciência da Computação.
+## about me
 
-- 🌱 &nbsp; Aprendendo sobre React Native, Atomic Design, Vue, Nuxt e Typescript. 
-<div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vitor-webpack" height="30" width="40" src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor">
-<img align="center" alt="vitor-Nodejs" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
-   <img align="center" alt="Vitor-JAVA" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
-<hr>
-<div>
- <a href="https://github.com/vitorGPorto">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorGPorto&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorGPorto&layout=compact&langs_count=16&theme=vue-dark"/>
-<div>
-<hr>
-<h3> 🤝🏿 Contato:</h3>
-  <div>
-<a href = "mailto:vitorgsporto01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/vitor-porto-8340bb173" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/porto.meu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+<br/>🌍 based in Minas Gerais, Brazil
+<br/>🎓 graduated in 2022 from Faculdade UNIBH in Computer Science
+<br/>👨‍🚀 currently studying Kotlin Android Developer at EBAC
+<br/>🌱 studying **Mobile development** 📱
+<br/>🤝 keen to collaborate in open source projects
+<br/>🎛️ root modão, alternative rock, lo-fi
+<br>
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=vitorGPorto.vitorGPorto)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="25">
+##  tech stacks & tools 
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,vscode,github,java,kotlin,androidstudio,nodejs,git,js,react,xd,discord&theme=light)](https://github.com/tandpfun/skill-icons)
+
+  
+<br>
+
+## analytics & highlights
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height="145em" src="https://github-readme-stats-bpires.vercel.app/api?username=vitorGPorto&hide_title=true&line_height=25&hide_rank=false&theme=dracula&show_icons=true&include_all_commits=true&hide_border=true"></a>&nbsp;
+
+<a href="https://github.com/denvercoder1/github-readme-streak-stats">
+<img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorGPorto&theme=dracula&hide_border=true">
+</a>&nbsp;
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height="129.6em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=vitorGPorto&layout=compact&card_width=400&hide_title=true&theme=dracula&t&langs_count=5&hide_border=true">
+</a>&nbsp;
+
+<a href="https://metrics.lecoq.io/insights/vitorGPorto" target="_blank" rel="noreferrer"><img height="27.5em" src="https://user-images.githubusercontent.com/86871991/178090011-2be9a8c0-ad68-4e7d-8568-6256d8178a28.png"></img></a>
+
+<p align="center">
+<img align="center" src="https://komarev.com/ghpvc/?username=vitorGPorto&style=for-the-badge&label=Profile%20views&color=313b4a"></img>
+</p>
 
