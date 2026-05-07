@@ -12,7 +12,7 @@
 
 Sou um desenvolvedor Full Stack focado em construir aplicações sólidas e performáticas. Transito entre o desenvolvimento de sistemas corporativos robustos e a criação de apps mobile intuitivos. Além do código, sou um entusiasta da cultura DIY e de hardware.
 
-- 🌍 Baseado no bairro Renascença em **Belo Horizonte, MG**
+- 🌍  **Belo Horizonte, MG**
 - 🎓 Graduado em Ciência da Computação pela **UniBH** (2022)
 - 💻 Atualmente focado no ecossistema **.NET (C#)** e **Oracle**, com expertise em **Angular** e **React Native**
 - 🚀 Desenvolvendo o **Activity Hub** (ou Sheet Central), um projeto pessoal voltado para fitness e organização
